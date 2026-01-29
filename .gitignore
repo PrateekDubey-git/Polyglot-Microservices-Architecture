@@ -39,3 +39,19 @@ logs/
 Thumbs.db
 .vscode/
 .idea/
+
+# secrets
+.env
+*.key
+*.pem
+
+# dotnet
+.vs/
+bin/
+obj/
+
+# node
+node_modules/
+
+# misc
+.DS_Store
